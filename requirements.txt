@@ -1,0 +1,12 @@
+<<<<<<< HEAD
+streamlit
+numpy
+scikit-learn
+# #local packages
+# -e .
+=======
+streamlit
+numpy
+scikit-learn
+#local packages
+>>>>>>> 0c120f2e6c52c609d304e859015192dcd4f664f1
